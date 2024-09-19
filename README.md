@@ -11,7 +11,7 @@ Este proyecto visualiza un conjunto de datos de productos de Amazon, proporciona
 - **Cantidad total de productos**
 - **Precio promedio** sin descuento
 - **Precio promedio** con descuento
-- **Descuento promedio aplicado
+- **Descuento promedio aplicado**
   
 Además, se destacan las **tres principales categorías** en términos de cantidad de productos y precios:
 
